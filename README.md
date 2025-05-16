@@ -1,4 +1,4 @@
-# 🖥️ Simple EC2構築（Terraform / 東京リージョン）
+# 🖥️ Terraformを用いたAWS EC2インフラ構築・公開手順サンプル（東京リージョン対応）
 
 このリポジトリは、Terraformを使ってAWSの東京リージョン（ap-northeast-1）にシンプルなEC2インスタンス公開環境を構築するサンプルです。
 
